@@ -9384,9 +9384,7 @@ simplebar-react@^2.3.6:
     simplebar "^5.3.6"
 
 simplebar@^5.3.6:
-  version "5.3.6"
-  resolved "https://registry.npmjs.org/simplebar/-/simplebar-5.3.6.tgz"
-  integrity sha512-FJUMbV+hNDd/m+1/fvD41TXKd5mSdlI5zgBygkaQIV3SffNbcLhSbJT6ufTs8ZNRLJ6i+qc/KCFMqWmvlGWMhA==
+  version "5.3.9"
   dependencies:
     "@juggle/resize-observer" "^3.3.1"
     can-use-dom "^0.1.0"
