@@ -41,9 +41,7 @@
   integrity sha512-oH5UPLMWR3L2wEFLnFJ1TZXqHufiTKAiLfqw5zkhS4dKXLJ10yVztfil/twG8EDTA4F/tvVNw9nOl4ZMslB8rQ==
 
 "@babel/core@^7.1.0", "@babel/core@^7.11.1", "@babel/core@^7.12.3", "@babel/core@^7.17.9", "@babel/core@^7.7.2", "@babel/core@^7.8.0":
-  version "7.17.9"
-  resolved "https://registry.npmjs.org/@babel/core/-/core-7.17.9.tgz"
-  integrity sha512-5ug+SfZCpDAkVp9SFIZAzlW18rlzsOcJGaetCjkySnrXXDUw9AR8cDUm1iByTmdWM6yxX6/zycaV76w3YTF2gw==
+  version "7.29.7"
   dependencies:
     "@ampproject/remapping" "^2.1.0"
     "@babel/code-frame" "^7.16.7"
@@ -92,9 +90,7 @@
     semver "^6.3.1"
 
 "@babel/eslint-parser@^7.17.0":
-  version "7.17.0"
-  resolved "https://registry.npmjs.org/@babel/eslint-parser/-/eslint-parser-7.17.0.tgz"
-  integrity sha512-PUEJ7ZBXbRkbq3qqM/jZ2nIuakUBqCYc7Qf52Lj7dlZ6zERnqisdHioL0l4wwQZnmskMeasqUNzLBFKs3nylXA==
+  version "7.29.7"
   dependencies:
     eslint-scope "^5.1.1"
     eslint-visitor-keys "^2.1.0"
