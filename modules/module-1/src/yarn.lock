@@ -5500,9 +5500,7 @@ form-data@^4.0.0:
     mime-types "^2.1.12"
 
 formik@^2.2.9:
-  version "2.2.9"
-  resolved "https://registry.npmjs.org/formik/-/formik-2.2.9.tgz"
-  integrity sha512-LQLcISMmf1r5at4/gyJigGn0gOwFbeEAlji+N9InZF6LIMXnFNkO42sCI8Jt84YZggpD4cPWObAZaxpEFtSzNA==
+  version "2.2.10"
   dependencies:
     deepmerge "^2.1.1"
     hoist-non-react-statics "^3.3.0"
