@@ -3,7 +3,7 @@
 # Minimum packages for azure functions
 
 # Additional packages
-azure-cosmos==4.3.0
-azure-storage-blob==12.12.0
+azure-cosmos==4.16.4
+azure-storage-blob==12.30.1
 bcrypt==3.2.2
 pyjwt==1.7.1
